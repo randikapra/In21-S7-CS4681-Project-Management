@@ -1,0 +1,46 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "210686T",
+        "Student_ID": "210686T",
+        "student_name": "Weerasekara K.P.T.I",
+        "Student_Name": "Weerasekara K.P.T.I",
+        "research_area": "NLP:Text Generation",
+        "email": "subavarshanaa.21@cse.mrt.ac.lk",
+        "github_username": "Thula-W",
+        "GitHub_User_Name": "https://github.com/Thula-W",
+        "research_area_clean": "nlp:text-generation"
+      },
+      "folder_name": "210686T-NLP:Text-Generation",
+      "created_files": [
+        "projects/210686T-NLP:Text-Generation/README.md",
+        "projects/210686T-NLP:Text-Generation/docs/research_proposal.md",
+        "projects/210686T-NLP:Text-Generation/docs/literature_review.md",
+        "projects/210686T-NLP:Text-Generation/docs/methodology.md",
+        "projects/210686T-NLP:Text-Generation/docs/usage_instructions.md",
+        "projects/210686T-NLP:Text-Generation/docs/progress_reports/.gitkeep",
+        "projects/210686T-NLP:Text-Generation/src/.gitkeep",
+        "projects/210686T-NLP:Text-Generation/data/.gitkeep",
+        "projects/210686T-NLP:Text-Generation/experiments/.gitkeep",
+        "projects/210686T-NLP:Text-Generation/results/.gitkeep",
+        "projects/210686T-NLP:Text-Generation/requirements.txt"
+      ],
+      "errors": []
+    }
+  ],
+  "failed": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 1,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_create_student_folders",
+    "timestamp": "2025-09-04T14:53:21.102016"
+  },
+  "operation": "bulk_create_student_folders",
+  "timestamp": "2025-09-04T14:53:21.102016"
+}

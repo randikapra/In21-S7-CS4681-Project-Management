@@ -1,0 +1,45 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200472B",
+        "Student_ID": "200472B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "GitHub_User_Name": "https://github.com/randikapra",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "randikapra",
+          "success": true,
+          "permission": "push",
+          "student_id": "200472B",
+          "student_name": "PRABASHWARA M.A.R"
+        }
+      ],
+      "error": null
+    }
+  ],
+  "failed": [],
+  "partial_success": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 1,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T05:40:35.515195"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T05:40:35.515195"
+}

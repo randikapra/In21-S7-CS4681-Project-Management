@@ -1,0 +1,28 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "error",
+      "student": {
+        "index_number": "200086U",
+        "name": "CHANDRASENA W.G.M.D.",
+        "research_area": "Industry AI - Legal Tech",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "research_area_clean": "industry-ai-legal-tech"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    }
+  ],
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 0,
+    "failed_count": 1,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_create_repositories",
+    "timestamp": "2025-08-28T16:09:19.944406"
+  },
+  "operation": "bulk_create_repositories",
+  "timestamp": "2025-08-28T16:09:19.944406"
+}

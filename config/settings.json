@@ -1,0 +1,41 @@
+{
+  "github": {
+    "token": "${GITHUB_TOKEN}",
+    "organization": "aaivu"
+  },
+  "project": {
+    "main_project_name": "In21-S7-CS4681-AML-Research-Projects",
+    "course_code": "CS4681",
+    "course_name": "Advanced Machine Learning",
+    "academic_year": "2025/2026",
+    "semester": "S7"
+  },
+  "repository": {
+    "name": "In21-S7-CS4681-AML-Research-Projects",
+    "private": true,
+    "auto_init": true
+  },
+  "master_dashboard": {
+    "name": "In21-S7-CS4681-AML Research Projects Dashboard",
+    "course_code": "CS4681",
+    "supervisor": "Dr. Uthayasanker Thayasivam",
+    "academic_year": "2025/2026",
+    "columns": ["Not Started", "Literature Review", "Implementation", "Experimentation", "Paper Writing", "Under Review", "Completed", "Need Attention"],
+    "auto_update": true
+  },
+  "milestones": {
+    "research_proposal": {"week": 4, "weight": 15, "title": "Research Proposal Submission"},
+    "literature_review": {"week": 5, "weight": 20, "title": "Literature Review Completion"},
+    "methodology_implementation": {"week": 8, "weight": 25, "title": "Methodology & Implementation"},
+    "final_evaluation": {"week": 12, "weight": 40, "title": "Final Evaluation & Report"}
+  },
+  "invitations": {
+    "auto_send": true,
+    "retry_failed": true,
+    "email_notifications": true
+  },
+  "templates": {
+    "enable_custom_templates": true,
+    "template_directory": "templates"
+  }
+}

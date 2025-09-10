@@ -1,0 +1,45 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "210567F",
+        "Student_ID": "210567F",
+        "student_name": "SANDARUWAN W.G.M.A.",
+        "Student_Name": "SANDARUWAN W.G.M.A.",
+        "research_area": "AI SafetyAI: Governance",
+        "email": "molindu.21@cse.mrt.ac.lk",
+        "github_username": "sandaruwanWGMA",
+        "GitHub_User_Name": "https://github.com/sandaruwanWGMA",
+        "research_area_clean": "ai-safetyai:-governance"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "sandaruwanWGMA",
+          "success": true,
+          "permission": "push",
+          "student_id": "210567F",
+          "student_name": "SANDARUWAN W.G.M.A."
+        }
+      ],
+      "error": null
+    }
+  ],
+  "failed": [],
+  "partial_success": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 1,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-10T04:53:26.727342"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-10T04:53:26.727342"
+}

@@ -1,0 +1,24 @@
+{
+  "supervisors": [
+    {
+      "name": "Dr. Uthayasanker Thayasivam",
+      "github_username": "rtuthayaCSE",
+      "email": "rtuthaya.lk",
+      "role": "primary_supervisor",
+      "permissions": "Owner"
+    },
+    {
+      "name": "Randika Prabashwara",
+      "github_username": "randikapra",
+      "email": "prabashwaramar.20@uom.lk",
+      "role": "research_assistant",
+      "permissions": "Member"
+    }
+  ],
+  "module_coordinator": {
+    "name": "Prof. Module Coordinator",
+    "github_username": "coordinator",
+    "email": "coordinator@university.lk",
+    "permissions": "owner"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "200472B",
+        "Student_ID": "200472B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "GitHub_User_Name": "https://github.com/randikapra",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "randikapra",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "200472B"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "200710F",
+        "Student_ID": "200710F",
+        "student_name": "WICKRAMARATHNA G.V",
+        "Student_Name": "WICKRAMARATHNA G.V",
+        "research_area": "NLP:Reasoning",
+        "email": "gayani.20@cse.mrt.ac.lk",
+        "github_username": "Gayani2001",
+        "GitHub_User_Name": "https://github.com/Gayani2001",
+        "research_area_clean": "nlp:reasoning"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Gayani2001",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "200710F"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 2,
+  "summary": {
+    "total_processed": 2,
+    "successful_count": 0,
+    "failed_count": 2,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T05:57:36.628105"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T05:57:36.628105"
+}

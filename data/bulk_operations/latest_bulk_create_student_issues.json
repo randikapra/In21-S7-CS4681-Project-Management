@@ -1,0 +1,54 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "210686T",
+        "Student_ID": "210686T",
+        "student_name": "Weerasekara K.P.T.I",
+        "Student_Name": "Weerasekara K.P.T.I",
+        "research_area": "NLP:Text Generation",
+        "email": "subavarshanaa.21@cse.mrt.ac.lk",
+        "github_username": "Thula-W",
+        "GitHub_User_Name": "https://github.com/Thula-W",
+        "research_area_clean": "nlp:text-generation"
+      },
+      "issues_created": [
+        {
+          "number": 588,
+          "title": "\ud83d\udccb Research Proposal - 210686T",
+          "type": "research_proposal"
+        },
+        {
+          "number": 589,
+          "title": "\ud83d\udcda Literature Review - 210686T",
+          "type": "literature_review"
+        },
+        {
+          "number": 590,
+          "title": "\ud83d\udd27 Methodology & Implementation - 210686T",
+          "type": "implementation"
+        },
+        {
+          "number": 591,
+          "title": "\ud83d\udcca Final Evaluation - 210686T",
+          "type": "final_evaluation"
+        }
+      ],
+      "project_label": "student-210686T"
+    }
+  ],
+  "failed": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 1,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_create_student_issues",
+    "timestamp": "2025-09-04T14:53:33.217517"
+  },
+  "operation": "bulk_create_student_issues",
+  "timestamp": "2025-09-04T14:53:33.217517"
+}

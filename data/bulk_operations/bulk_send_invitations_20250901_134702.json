@@ -1,0 +1,44 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210536K",
+        "Student_ID": "210536K",
+        "student_name": "RATHNAYAKA W.T.",
+        "Student_Name": "RATHNAYAKA W.T.",
+        "research_area": "Multi-Modal Learning:Video Understanding",
+        "email": "thisara.21@cse.mrt.ac.lk",
+        "github_username": "ThisaraWeerakoon",
+        "GitHub_User_Name": "https://github.com/ThisaraWeerakoon",
+        "research_area_clean": "multi-modal-learning:video-understanding"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "ThisaraWeerakoon",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210536K"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 0,
+    "failed_count": 1,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T13:47:01.828635"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T13:47:01.828635"
+}

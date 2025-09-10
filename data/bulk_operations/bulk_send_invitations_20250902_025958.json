@@ -1,0 +1,96 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210708P",
+        "Student_ID": "210708P",
+        "student_name": "WICKRAMASINGHE M.S.V.",
+        "Student_Name": "WICKRAMASINGHE M.S.V.",
+        "research_area": "Human-AI Collab:AI Assistants",
+        "email": "sahanwickramasinghe.21@cse.mrt.ac.lk",
+        "github_username": "sahan-vishwajith",
+        "GitHub_User_Name": "https://github.com/sahan-vishwajith",
+        "research_area_clean": "human-ai-collab:ai-assistants"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "sahan-vishwajith",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210708P"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210711T",
+        "Student_ID": "210711T",
+        "student_name": "WICKRAMASINGHE W.L.K.D.D.A.",
+        "Student_Name": "WICKRAMASINGHE W.L.K.D.D.A.",
+        "research_area": "GNN:Molecular Property",
+        "email": "kithuni.21@cse.mrt.ac.lk",
+        "github_username": "KituniDevma",
+        "GitHub_User_Name": "https://github.com/KituniDevma",
+        "research_area_clean": "gnn:molecular-property"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "KituniDevma",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210711T"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210714F",
+        "Student_ID": "210714F",
+        "student_name": "WIJEKOON W.M.T.N.",
+        "Student_Name": "WIJEKOON W.M.T.N.",
+        "research_area": "3D Vision:3D Scene Understanding",
+        "email": "tharinduw.21@cse.mrt.ac.lk",
+        "github_username": "tharindu-wijekoon",
+        "GitHub_User_Name": "https://github.com/tharindu-wijekoon",
+        "research_area_clean": "3d-vision:3d-scene-understanding"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "tharindu-wijekoon",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210714F"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 3,
+  "summary": {
+    "total_processed": 3,
+    "successful_count": 0,
+    "failed_count": 3,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-02T02:33:47.819075"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-02T02:33:47.819075"
+}

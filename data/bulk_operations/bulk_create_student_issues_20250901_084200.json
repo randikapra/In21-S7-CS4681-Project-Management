@@ -1,0 +1,91 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200001B",
+        "Student_ID": "200001B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikaprabashwara0.20@cse.mrt.ac.lk",
+        "github_username": "randika-CJ",
+        "GitHub_User_Name": "https://github.com/randika-CJ",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "issues_created": [
+        {
+          "number": 184,
+          "title": "\ud83d\udccb Research Proposal - 200001B",
+          "type": "research_proposal"
+        },
+        {
+          "number": 185,
+          "title": "\ud83d\udcda Literature Review - 200001B",
+          "type": "literature_review"
+        },
+        {
+          "number": 186,
+          "title": "\ud83d\udd27 Methodology & Implementation - 200001B",
+          "type": "implementation"
+        },
+        {
+          "number": 187,
+          "title": "\ud83d\udcca Final Evaluation - 200001B",
+          "type": "final_evaluation"
+        }
+      ],
+      "project_label": "student-200001B"
+    },
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200710F",
+        "Student_ID": "200710F",
+        "student_name": "WICKRAMARATHNA G.V",
+        "Student_Name": "WICKRAMARATHNA G.V",
+        "research_area": "NLP:Reasoning",
+        "email": "gayani.20@cse.mrt.ac.lk",
+        "github_username": "Gayani2001",
+        "GitHub_User_Name": "https://github.com/Gayani2001",
+        "research_area_clean": "nlp:reasoning"
+      },
+      "issues_created": [
+        {
+          "number": 188,
+          "title": "\ud83d\udccb Research Proposal - 200710F",
+          "type": "research_proposal"
+        },
+        {
+          "number": 189,
+          "title": "\ud83d\udcda Literature Review - 200710F",
+          "type": "literature_review"
+        },
+        {
+          "number": 190,
+          "title": "\ud83d\udd27 Methodology & Implementation - 200710F",
+          "type": "implementation"
+        },
+        {
+          "number": 191,
+          "title": "\ud83d\udcca Final Evaluation - 200710F",
+          "type": "final_evaluation"
+        }
+      ],
+      "project_label": "student-200710F"
+    }
+  ],
+  "failed": [],
+  "total_processed": 2,
+  "summary": {
+    "total_processed": 2,
+    "successful_count": 2,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_create_student_issues",
+    "timestamp": "2025-09-01T08:41:54.823305"
+  },
+  "operation": "bulk_create_student_issues",
+  "timestamp": "2025-09-01T08:41:54.823305"
+}

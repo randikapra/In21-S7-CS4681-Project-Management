@@ -1,0 +1,75 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200001B",
+        "Student_ID": "200001B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikaprabashwara0.20@cse.mrt.ac.lk",
+        "github_username": "randika-CJ",
+        "GitHub_User_Name": "https://github.com/randika-CJ",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "folder_name": "200001B-CV:Super-Resolution",
+      "created_files": [
+        "projects/200001B-CV:Super-Resolution/README.md",
+        "projects/200001B-CV:Super-Resolution/docs/research_proposal.md",
+        "projects/200001B-CV:Super-Resolution/docs/literature_review.md",
+        "projects/200001B-CV:Super-Resolution/docs/methodology.md",
+        "projects/200001B-CV:Super-Resolution/docs/usage_instructions.md",
+        "projects/200001B-CV:Super-Resolution/docs/progress_reports/.gitkeep",
+        "projects/200001B-CV:Super-Resolution/src/.gitkeep",
+        "projects/200001B-CV:Super-Resolution/data/.gitkeep",
+        "projects/200001B-CV:Super-Resolution/experiments/.gitkeep",
+        "projects/200001B-CV:Super-Resolution/results/.gitkeep",
+        "projects/200001B-CV:Super-Resolution/requirements.txt"
+      ],
+      "errors": []
+    },
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200710F",
+        "Student_ID": "200710F",
+        "student_name": "WICKRAMARATHNA G.V",
+        "Student_Name": "WICKRAMARATHNA G.V",
+        "research_area": "NLP:Reasoning",
+        "email": "gayani.20@cse.mrt.ac.lk",
+        "github_username": "Gayani2001",
+        "GitHub_User_Name": "https://github.com/Gayani2001",
+        "research_area_clean": "nlp:reasoning"
+      },
+      "folder_name": "200710F-NLP:Reasoning",
+      "created_files": [
+        "projects/200710F-NLP:Reasoning/README.md",
+        "projects/200710F-NLP:Reasoning/docs/research_proposal.md",
+        "projects/200710F-NLP:Reasoning/docs/literature_review.md",
+        "projects/200710F-NLP:Reasoning/docs/methodology.md",
+        "projects/200710F-NLP:Reasoning/docs/usage_instructions.md",
+        "projects/200710F-NLP:Reasoning/docs/progress_reports/.gitkeep",
+        "projects/200710F-NLP:Reasoning/src/.gitkeep",
+        "projects/200710F-NLP:Reasoning/data/.gitkeep",
+        "projects/200710F-NLP:Reasoning/experiments/.gitkeep",
+        "projects/200710F-NLP:Reasoning/results/.gitkeep",
+        "projects/200710F-NLP:Reasoning/requirements.txt"
+      ],
+      "errors": []
+    }
+  ],
+  "failed": [],
+  "total_processed": 2,
+  "summary": {
+    "total_processed": 2,
+    "successful_count": 2,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_create_student_folders",
+    "timestamp": "2025-09-01T08:03:01.139601"
+  },
+  "operation": "bulk_create_student_folders",
+  "timestamp": "2025-09-01T08:03:01.139601"
+}

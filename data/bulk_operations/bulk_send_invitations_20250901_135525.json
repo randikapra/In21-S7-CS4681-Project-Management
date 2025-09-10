@@ -1,0 +1,44 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210735U",
+        "Student_ID": "210735U",
+        "student_name": "YAPA Y.M.D.P.",
+        "Student_Name": "YAPA Y.M.D.P.",
+        "research_area": "Human-AI Collab:Interactive Problem Solving",
+        "email": "dulmi.21@cse.mrt.ac.lk",
+        "github_username": "Dulmi21",
+        "GitHub_User_Name": "https://github.com/Dulmi21",
+        "research_area_clean": "human-ai-collab:interactive-problem-solving"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Dulmi21",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210735U"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 0,
+    "failed_count": 1,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T13:55:24.804099"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T13:55:24.804099"
+}

@@ -1,0 +1,593 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "210620M",
+        "Student_ID": "210620M",
+        "student_name": "SUBASINGHE S.M.K.G.L.S.",
+        "Student_Name": "SUBASINGHE S.M.K.G.L.S.",
+        "research_area": "Financial AI:Algorithmic Trading",
+        "email": "lasana.21@cse.mrt.ac.lk",
+        "github_username": "Lason360",
+        "GitHub_User_Name": "https://github.com/Lason360",
+        "research_area_clean": "financial-ai:algorithmic-trading"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Lason360",
+          "success": true,
+          "permission": "push",
+          "student_id": "210620M",
+          "student_name": "SUBASINGHE S.M.K.G.L.S."
+        }
+      ],
+      "error": null
+    },
+    {
+      "status": "success",
+      "student": {
+        "index_number": "210621R",
+        "Student_ID": "210621R",
+        "student_name": "SUBAVARSHANA A.",
+        "Student_Name": "SUBAVARSHANA A.",
+        "research_area": "NLP:Question Answering",
+        "email": "subavarshanaa.21@cse.mrt.ac.lk",
+        "github_username": "subu0106",
+        "GitHub_User_Name": "https://github.com/subu0106",
+        "research_area_clean": "nlp:question-answering"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "subu0106",
+          "success": true,
+          "permission": "push",
+          "student_id": "210621R",
+          "student_name": "SUBAVARSHANA A."
+        }
+      ],
+      "error": null
+    }
+  ],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210536K",
+        "Student_ID": "210536K",
+        "student_name": "RATHNAYAKA W.T.",
+        "Student_Name": "RATHNAYAKA W.T.",
+        "research_area": "Multi-Modal Learning:Video Understanding",
+        "email": "thisara.21@cse.mrt.ac.lk",
+        "github_username": "ThisaraWeerakoon",
+        "GitHub_User_Name": "https://github.com/ThisaraWeerakoon",
+        "research_area_clean": "multi-modal-learning:video-understanding"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "ThisaraWeerakoon",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210536K"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210553J",
+        "Student_ID": "210553J",
+        "student_name": "SAJEENTHIRAN P.",
+        "Student_Name": "SAJEENTHIRAN P.",
+        "research_area": "GNN:Knowledge Graphs",
+        "email": "sajeenthiranp.21@cse.mrt.ac.lk",
+        "github_username": "ParameswaranSajeenthiran",
+        "GitHub_User_Name": "https://github.com/ParameswaranSajeenthiran",
+        "research_area_clean": "gnn:knowledge-graphs"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "ParameswaranSajeenthiran",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210553J"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210554M",
+        "Student_ID": "210554M",
+        "student_name": "SAJEEV K.",
+        "Student_Name": "SAJEEV K.",
+        "research_area": "Small LLMs:Edge Computing",
+        "email": "kugarajah.21@cse.mrt.ac.lk",
+        "github_username": "veejask-41",
+        "GitHub_User_Name": "https://github.com/veejask-41",
+        "research_area_clean": "small-llms:edge-computing"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "veejask-41",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210554M"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210567F",
+        "Student_ID": "210567F",
+        "student_name": "SANDARUWAN W.G.M.A.",
+        "Student_Name": "SANDARUWAN W.G.M.A.",
+        "research_area": "AI SafetyAI: Governance",
+        "email": "molindu.21@cse.mrt.ac.lk",
+        "github_username": "sandaruwanWGMA",
+        "GitHub_User_Name": "https://github.com/sandaruwanWGMA",
+        "research_area_clean": "ai-safetyai:-governance"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "sandaruwanWGMA",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210567F"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210572P",
+        "Student_ID": "210572P",
+        "student_name": "SANJANA K.Y.C.",
+        "Student_Name": "SANJANA K.Y.C.",
+        "research_area": "CV:Super Resolution",
+        "email": "yoshan.21@cse.mrt.ac.lk",
+        "github_username": "SanjanaChamindu",
+        "GitHub_User_Name": "https://github.com/SanjanaChamindu",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "SanjanaChamindu",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210572P"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210574A",
+        "Student_ID": "210574A",
+        "student_name": "SANKALPA L.M.P.",
+        "Student_Name": "SANKALPA L.M.P.",
+        "research_area": "AI Evaluation:Reasoning Evaluation",
+        "email": "pasindus.21@cse.mrt.ac.lk",
+        "github_username": "Pasindu599",
+        "GitHub_User_Name": "https://github.com/Pasindu599",
+        "research_area_clean": "ai-evaluation:reasoning-evaluation"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Pasindu599",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210574A"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210581R",
+        "Student_ID": "210581R",
+        "student_name": "SAYANGKONDAN S.",
+        "Student_Name": "SAYANGKONDAN S.",
+        "research_area": "AI Efficiency:Power Optimization",
+        "email": "Sabalingam.21@cse.mrt.ac.lk",
+        "github_username": "Sayan-Saba",
+        "GitHub_User_Name": "https://github.com/Sayan-Saba",
+        "research_area_clean": "ai-efficiency:power-optimization"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Sayan-Saba",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210581R"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210588U",
+        "Student_ID": "210588U",
+        "student_name": "SENARATHNA L.P.S.U.K.",
+        "Student_Name": "SENARATHNA L.P.S.U.K.",
+        "research_area": "Reasoning AI:Mathematical Reasoning",
+        "email": "udantha.21@cse.mrt.ac.lk",
+        "github_username": "senaMora",
+        "GitHub_User_Name": "https://github.com/senaMora",
+        "research_area_clean": "reasoning-ai:mathematical-reasoning"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "senaMora",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210588U"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210613U",
+        "Student_ID": "210613U",
+        "student_name": "SIRIWARDHANA S.M.C.R.",
+        "Student_Name": "SIRIWARDHANA S.M.C.R.",
+        "research_area": "Federated Learning:Horizontal FL",
+        "email": "chirantha.21@cse.mrt.ac.lk",
+        "github_username": "Chirantha01",
+        "GitHub_User_Name": "https://github.com/Chirantha01",
+        "research_area_clean": "federated-learning:horizontal-fl"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Chirantha01",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210613U"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210614A",
+        "Student_ID": "210614A",
+        "student_name": "SIYAMBALAPITIYA S.A.T.",
+        "Student_Name": "SIYAMBALAPITIYA S.A.T.",
+        "research_area": "Multi-Modal Learning:Video Understanding",
+        "email": "anjitha.21@cse.mrt.ac.lk",
+        "github_username": "Chirantha01",
+        "GitHub_User_Name": "https://github.com/Chirantha01",
+        "research_area_clean": "multi-modal-learning:video-understanding"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Chirantha01",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210614A"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210639E",
+        "Student_ID": "210639E",
+        "student_name": "THEESAN L.M.",
+        "Student_Name": "THEESAN L.M.",
+        "research_area": "CV:Image Classification",
+        "email": "theesan.21@cse.mrt.ac.lk",
+        "github_username": "mohamedTheesan21",
+        "GitHub_User_Name": "https://github.com/mohamedTheesan21",
+        "research_area_clean": "cv:image-classification"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "mohamedTheesan21",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210639E"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210647C",
+        "Student_ID": "210647C",
+        "student_name": "THEVINKA M.A.D.",
+        "Student_Name": "THEVINKA M.A.D.",
+        "research_area": "AI Safety:Interpretability",
+        "email": "disini.21@cse.mrt.ac.lk",
+        "github_username": "disini-thev",
+        "GitHub_User_Name": "https://github.com/disini-thev",
+        "research_area_clean": "ai-safety:interpretability"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "disini-thev",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210647C"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210665E",
+        "Student_ID": "210665E",
+        "student_name": "VAHESHAN E.",
+        "Student_Name": "VAHESHAN E.",
+        "research_area": "GNN:Molecular Property",
+        "email": "eswararajah.21@cse.mrt.ac.lk",
+        "github_username": "Vaheshan",
+        "GitHub_User_Name": "https://github.com/Vaheshan",
+        "research_area_clean": "gnn:molecular-property"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Vaheshan",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210665E"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210670N",
+        "Student_ID": "210670N",
+        "student_name": "VIDUSHINI A.O.",
+        "Student_Name": "VIDUSHINI A.O.",
+        "research_area": "Climate AI:Weather Forecasting",
+        "email": "omalya.21@cse.mrt.ac.lk",
+        "github_username": "OmalyaV",
+        "GitHub_User_Name": "https://github.com/OmalyaV",
+        "research_area_clean": "climate-ai:weather-forecasting"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "OmalyaV",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210670N"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210685N",
+        "Student_ID": "210685N",
+        "student_name": "WEERAKOON W.M.R.H.U.B.",
+        "Student_Name": "WEERAKOON W.M.R.H.U.B.",
+        "research_area": "CV:Semantic Segmentation",
+        "email": "ravindu.21@cse.mrt.ac.lk",
+        "github_username": "RavinduWeerakoon",
+        "GitHub_User_Name": "https://github.com/RavinduWeerakoon",
+        "research_area_clean": "cv:semantic-segmentation"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "RavinduWeerakoon",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210685N"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210706H",
+        "Student_ID": "210706H",
+        "student_name": "WICKRAMASINGHE J.J.",
+        "Student_Name": "WICKRAMASINGHE J.J.",
+        "research_area": "AI Evaluation:Task Completion",
+        "email": "janeesha.21@cse.mrt.ac.lk",
+        "github_username": "JaneeshaJ2001",
+        "GitHub_User_Name": "https://github.com/JaneeshaJ2001",
+        "research_area_clean": "ai-evaluation:task-completion"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "JaneeshaJ2001",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210706H"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210708P",
+        "Student_ID": "210708P",
+        "student_name": "WICKRAMASINGHE M.S.V.",
+        "Student_Name": "WICKRAMASINGHE M.S.V.",
+        "research_area": "Human-AI Collab:AI Assistants",
+        "email": "sahanwickramasinghe.21@cse.mrt.ac.lk",
+        "github_username": "sahan-vishwajith",
+        "GitHub_User_Name": "https://github.com/sahan-vishwajith",
+        "research_area_clean": "human-ai-collab:ai-assistants"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "sahan-vishwajith",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210708P"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210711T",
+        "Student_ID": "210711T",
+        "student_name": "WICKRAMASINGHE W.L.K.D.D.A.",
+        "Student_Name": "WICKRAMASINGHE W.L.K.D.D.A.",
+        "research_area": "GNN:Molecular Property",
+        "email": "kithuni.21@cse.mrt.ac.lk",
+        "github_username": "KituniDevma",
+        "GitHub_User_Name": "https://github.com/KituniDevma",
+        "research_area_clean": "gnn:molecular-property"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "KituniDevma",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210711T"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210714F",
+        "Student_ID": "210714F",
+        "student_name": "WIJEKOON W.M.T.N.",
+        "Student_Name": "WIJEKOON W.M.T.N.",
+        "research_area": "3D Vision:3D Scene Understanding",
+        "email": "tharinduw.21@cse.mrt.ac.lk",
+        "github_username": "tharindu-wijekoon",
+        "GitHub_User_Name": "https://github.com/tharindu-wijekoon",
+        "research_area_clean": "3d-vision:3d-scene-understanding"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "tharindu-wijekoon",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210714F"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "210735U",
+        "Student_ID": "210735U",
+        "student_name": "YAPA Y.M.D.P.",
+        "Student_Name": "YAPA Y.M.D.P.",
+        "research_area": "Human-AI Collab:Interactive Problem Solving",
+        "email": "dulmi.21@cse.mrt.ac.lk",
+        "github_username": "Dulmi21",
+        "GitHub_User_Name": "https://github.com/Dulmi21",
+        "research_area_clean": "human-ai-collab:interactive-problem-solving"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed: Failed to add collaborator - check if username exists and repository permissions",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Dulmi21",
+          "success": false,
+          "error": "Failed to add collaborator - check if username exists and repository permissions",
+          "student_id": "210735U"
+        }
+      ],
+      "error": "Failed to add collaborator - check if username exists and repository permissions"
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 22,
+  "summary": {
+    "total_processed": 22,
+    "successful_count": 2,
+    "failed_count": 20,
+    "partial_success_count": 0,
+    "success_rate": 9.090909090909092,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T13:49:28.111193"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T13:49:28.111193"
+}

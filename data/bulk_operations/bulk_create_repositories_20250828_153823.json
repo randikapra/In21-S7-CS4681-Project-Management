@@ -1,0 +1,1036 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "error",
+      "student": {
+        "index_number": "200086U",
+        "name": "CHANDRASENA W.G.M.D.",
+        "research_area": "Industry AI - Legal Tech",
+        "email": "maheshchandrasena.21@cse.mrt.ac.lk",
+        "github_username": "maheshdila",
+        "research_area_clean": "industry-ai-legal-tech"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "200151P",
+        "name": "EDIRISINGHE E.A.B.T.",
+        "research_area": "3D Vision - 3D Scene Understanding",
+        "email": "buddhima.20@cse.mrt.ac.lk",
+        "github_username": "Buddhima2000",
+        "research_area_clean": "3d-vision-3d-scene-understanding"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210001R",
+        "name": "AATHIF M.N.M.",
+        "research_area": "Industry AI - Education",
+        "email": "aathif.21@cse.mrt.ac.lk",
+        "github_username": "MohamedAathif2001",
+        "research_area_clean": "industry-ai-education"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210004E",
+        "name": "ABEYGUNAWARDANE R.A.S.",
+        "research_area": "GNN - Node Prediction",
+        "email": "ramindu.21@cse.mrt.ac.lk",
+        "github_username": "RaminduA",
+        "research_area_clean": "gnn-node-prediction"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210017V",
+        "name": "ABINEYAN R.",
+        "research_area": "Small LLMs - Mixture of Experts",
+        "email": "ravichandran.21@cse.mrt.ac.lk",
+        "github_username": "abineyan",
+        "research_area_clean": "small-llms-mixture-of-experts"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210018B",
+        "name": "ABISHERK S.",
+        "research_area": "NLP - Language Understanding",
+        "email": "abisherk.21@cse.mrt.ac.lk",
+        "github_username": "SivakumarAbisherk",
+        "research_area_clean": "nlp-language-understanding"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210043V",
+        "name": "ANURADHA D.S.",
+        "research_area": "RL - Model-Free Control",
+        "email": "sajith.21@cse.mrt.ac.lk",
+        "github_username": "SajithAnuradha",
+        "research_area_clean": "rl-model-free-control"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210049U",
+        "name": "ARACHCHI H.M.W.",
+        "research_area": "NLP - ionSpeech Enhancement",
+        "email": "mihimal.21@cse.mrt.ac.lk",
+        "github_username": "HarithaMihimal",
+        "research_area_clean": "nlp-ionspeech-enhancement"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210055J",
+        "name": "ATHTHANAYAKE M.A.S.N.",
+        "research_area": "AI Efficiency - Federated Learning",
+        "email": "nimetha.21@cse.mrt.ac.lk",
+        "github_username": "SaviNimz",
+        "research_area_clean": "ai-efficiency-federated-learning"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210063G",
+        "name": "BANDARA K.M.K.M.",
+        "research_area": "NLP - Retrieval-Augmented Generation (RAG)",
+        "email": "kasindu.21@cse.mrt.ac.lk",
+        "github_username": "Konara2k01",
+        "research_area_clean": "nlp-retrieval-augmented-generation-(rag)"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210086E",
+        "name": "CHIRATH A.A.I.",
+        "research_area": "NLP - Text-to-Speech",
+        "email": "iruda.21@cse.mrt.ac.lk",
+        "github_username": "irudachirath",
+        "research_area_clean": "nlp-text-to-speech"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210099V",
+        "name": "DE SILVA D.A.V.",
+        "research_area": "Offline RL",
+        "email": "vidusha.21@cse.mrt.ac.lk",
+        "github_username": "vidushaDeSilva",
+        "research_area_clean": "offline-rl"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210110B",
+        "name": "DE ZOYSA P.V.K.",
+        "research_area": "GNN - Citation Networks",
+        "email": "vinu.21@cse.mrt.ac.lk",
+        "github_username": "vinukaveesha",
+        "research_area_clean": "gnn-citation-networks"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210112H",
+        "name": "DEIYAGALA T.D.H.",
+        "research_area": "NLP - Speech Enhancement",
+        "email": "dulitha.21@cse.mrt.ac.lk",
+        "github_username": "dulithahsith",
+        "research_area_clean": "nlp-speech-enhancement"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210144G",
+        "name": "DISSANAYAKE D.M.N.D.",
+        "research_area": "Cybersecurity AI - Threat Detection",
+        "email": "nisith.21@cse.mrt.ac.lk",
+        "github_username": "NisithDivantha",
+        "research_area_clean": "cybersecurity-ai-threat-detection"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210146N",
+        "name": "DISSANAYAKE D.M.P.S.",
+        "research_area": "Neurotechnology - Brain-Computer Interface",
+        "email": "pavitha.21@cse.mrt.ac.lk",
+        "github_username": "PavithaDissanayake",
+        "research_area_clean": "neurotechnology-brain-computer-interface"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210151B",
+        "name": "DULMITH M.W.P",
+        "research_area": "3D Vision - 3D Object Detection",
+        "email": "pasindud.21@cse.mrt.ac.lk",
+        "github_username": "PASINDU151",
+        "research_area_clean": "3d-vision-3d-object-detection"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210163M",
+        "name": "FERNANDO P.P.D.",
+        "research_area": "NLP - Speech Recognition",
+        "email": "dasun.21@cse.mrt.ac.lk",
+        "github_username": "PraminthaFernando",
+        "research_area_clean": "nlp-speech-recognition"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210170G",
+        "name": "FONSEKA W.A.R.T.",
+        "research_area": "NLP - Speech Recognition",
+        "email": "thathsarana.21@cse.mrt.ac.lk",
+        "github_username": "RasaraThathsarana",
+        "research_area_clean": "nlp-speech-recognition"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210172N",
+        "name": "GALAPPATHTHI A.S.",
+        "research_area": "Time Series - Univariate Forecasting",
+        "email": "sharadag.21@cse.mrt.ac.lk",
+        "github_username": "anush47",
+        "research_area_clean": "time-series-univariate-forecasting"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210173T",
+        "name": "GALLAGE D.",
+        "research_area": "Time Series - Multivariate Forecasting",
+        "email": "deshitha.21@cse.mrt.ac.lk",
+        "github_username": "deshithagallage",
+        "research_area_clean": "time-series-multivariate-forecasting"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210189X",
+        "name": "GOTHATUWA G.W.H.D.",
+        "research_area": "Multi-Modal Learning - Vision-Language",
+        "email": "helith.21@cse.mrt.ac.lk",
+        "github_username": "helithd",
+        "research_area_clean": "multi-modal-learning-vision-language"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210190R",
+        "name": "GUNAPALA S.A.C.H.",
+        "research_area": "NLP - Question Answering",
+        "email": "chamathg.21@cse.mrt.ac.lk",
+        "github_username": "chamathHirushan",
+        "research_area_clean": "nlp-question-answering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210202J",
+        "name": "HANA A.H.H.",
+        "research_area": "CV - Object Detection",
+        "email": "hanaanee.21@cse.mrt.ac.lk",
+        "github_username": "hanaahh21",
+        "research_area_clean": "cv-object-detection"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210203M",
+        "name": "HANA A.N.F.",
+        "research_area": "CV - Super Resolution",
+        "email": "fathimahana.21@cse.mrt.ac.lk",
+        "github_username": "HanaNazir",
+        "research_area_clean": "cv-super-resolution"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210206B",
+        "name": "HARIKISHNA N.",
+        "research_area": "Financial AI - Risk Assessment",
+        "email": "navaratnam.21@cse.mrt.ac.lk",
+        "github_username": "harikishnanavaratnam",
+        "research_area_clean": "financial-ai-risk-assessment"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210207E",
+        "name": "HARISMENAN J.",
+        "research_area": "AI Efficiency - Dataset Efficiency",
+        "email": "janarthanan.21@cse.mrt.ac.lk",
+        "github_username": "Janarthanan-Harismenan",
+        "research_area_clean": "ai-efficiency-dataset-efficiency"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210243J",
+        "name": "JAYARATHNA J.M.S.J.",
+        "research_area": "Multi-Modal Learning - Vision-Language",
+        "email": "sithum.21@cse.mrt.ac.lk",
+        "github_username": "sithumjee",
+        "research_area_clean": "multi-modal-learning-vision-language"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210247B",
+        "name": "JAYASINGHE C.H.",
+        "research_area": "Industry AI - Financial Services",
+        "email": "chamika.21@cse.mrt.ac.lk",
+        "github_username": "Chamikajaya",
+        "research_area_clean": "industry-ai-financial-services"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210252K",
+        "name": "JAYASOORIYA J.M.D.C.",
+        "research_area": "Text Diffusion - Text Generation",
+        "email": "dinusha.21@cse.mrt.ac.lk",
+        "github_username": "Dinusha-ChathurangaCSE",
+        "research_area_clean": "text-diffusion-text-generation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210257F",
+        "name": "JAYATHILAKE N.C.",
+        "research_area": "Small LLMs - Efficient Models",
+        "email": "nipuni.21@cse.mrt.ac.lk",
+        "github_username": "Nipuni100",
+        "research_area_clean": "small-llms-efficient-models"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210266G",
+        "name": "KAHAPOLA K.V.",
+        "research_area": "Recommendation Systems - Collaborative Filtering",
+        "email": "kaushal.21@cse.mrt.ac.lk",
+        "github_username": "kaushalkahapola",
+        "research_area_clean": "recommendation-systems-collaborative-filtering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210273B",
+        "name": "KARIYAWASAM L.C.",
+        "research_area": "Recommendation Systems - Collaborative Filtering",
+        "email": "lakindu.21@cse.mrt.ac.lk",
+        "github_username": "lckariyawasam",
+        "research_area_clean": "recommendation-systems-collaborative-filtering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210296X",
+        "name": "KOPIMENAN L.",
+        "research_area": "GNN - Graph Classification",
+        "email": "loganathan.21@cse.mrt.ac.lk",
+        "github_username": "Kopimenan",
+        "research_area_clean": "gnn-graph-classification"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210299J",
+        "name": "KRIYANJALA S.L.V.",
+        "research_area": "Multi-Modal Learning - Vision-Language",
+        "email": "verosha.21@cse.mrt.ac.lk",
+        "github_username": "VeroshaKriyanjala",
+        "research_area_clean": "multi-modal-learning-vision-language"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210302P",
+        "name": "KULASEKARA K.M.S.N.",
+        "research_area": "3D Vision - Neural Radiance Fields",
+        "email": "nadeeshan.21@cse.mrt.ac.lk",
+        "github_username": "sumuditha2001",
+        "research_area_clean": "3d-vision-neural-radiance-fields"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210306G",
+        "name": "KULATHUNGA K.A.J.T.",
+        "research_area": "Autonomous Systems - Motion Prediction",
+        "email": "janindu.21@cse.mrt.ac.lk",
+        "github_username": "JaninduTharuka",
+        "research_area_clean": "autonomous-systems-motion-prediction"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210314E",
+        "name": "KUMARASEKARA G.K.",
+        "research_area": "NLP - Text Generation",
+        "email": "gayank.21@cse.mrt.ac.lk",
+        "github_username": "Gayan-Kaushalya",
+        "research_area_clean": "nlp-text-generation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210329E",
+        "name": "LAKSARA K.Y.",
+        "research_area": "Healthcare AI - Medical Imaging",
+        "email": "yasirul.21@cse.mrt.ac.lk",
+        "github_username": "YasiruLaksara",
+        "research_area_clean": "healthcare-ai-medical-imaging"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210333K",
+        "name": "LAKSHAN P.D.",
+        "research_area": "NLP - Question Answering",
+        "email": "dhanuka.21@cse.mrt.ac.lk",
+        "github_username": "lakshanpd",
+        "research_area_clean": "nlp-question-answering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210343P",
+        "name": "LIYANAGE I.V.S.",
+        "research_area": "Human-AI Collab - Decision Support",
+        "email": "vimandika.21@cse.mrt.ac.lk",
+        "github_username": "Isara-Li",
+        "research_area_clean": "human-ai-collab-decision-support"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210352R",
+        "name": "MADURANGA H.D.E.",
+        "research_area": "NLP - Machine Translation",
+        "email": "eshan.21@cse.mrt.ac.lk",
+        "github_username": "210352R",
+        "research_area_clean": "nlp-machine-translation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210353V",
+        "name": "MADUSANKA G.I.D.L.",
+        "research_area": "Healthcare AI - Medical Segmentation",
+        "email": "Lakshan.21@cse.mrt.ac.lk",
+        "github_username": "lakshan1946",
+        "research_area_clean": "healthcare-ai-medical-segmentation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210363C",
+        "name": "MALLIKARACHCHI M.A.C.L.",
+        "research_area": "AI Evaluation - Agentic Evaluation",
+        "email": "chemini.21@cse.mrt.ac.lk",
+        "github_username": "CheliM7",
+        "research_area_clean": "ai-evaluation-agentic-evaluation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210365J",
+        "name": "MAMTA N.",
+        "research_area": "AI Efficiency - Training Optimization",
+        "email": "nallaretnam.21@cse.mrt.ac.lk",
+        "github_username": "MamtaNallaretnam",
+        "research_area_clean": "ai-efficiency-training-optimization"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210372D",
+        "name": "MANAWATHILAKE K.C.K.",
+        "research_area": "CV - Semantic Segmentation",
+        "email": "charana.21@cse.mrt.ac.lk",
+        "github_username": "CharanaManawathilake",
+        "research_area_clean": "cv-semantic-segmentation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210386A",
+        "name": "MENDIS P.H.M.N.",
+        "research_area": "Reasoning AI - Chain-of-Thought",
+        "email": "madara.21@cse.mrt.ac.lk",
+        "github_username": "Madara-Mendis",
+        "research_area_clean": "reasoning-ai-chain-of-thought"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210401T",
+        "name": "NADAWA R.M.N.",
+        "research_area": "Recommendation Systems - Collaborative Filtering",
+        "email": "nethum.21@cse.mrt.ac.lk",
+        "github_username": "nethum2001",
+        "research_area_clean": "recommendation-systems-collaborative-filtering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210404F",
+        "name": "NANAYAKKARA A.H.M.",
+        "research_area": "RL - Multi-Agent RL",
+        "email": "harith.21@cse.mrt.ac.lk",
+        "github_username": "harithmaduranga",
+        "research_area_clean": "rl-multi-agent-rl"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210413G",
+        "name": "NAWAGAMUWA N.P.V.N.",
+        "research_area": "AI Evaluation - Safety Evaluation",
+        "email": "vilash.21@cse.mrt.ac.lk",
+        "github_username": "VilashNaveen",
+        "research_area_clean": "ai-evaluation-safety-evaluation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210417X",
+        "name": "NAYANATHARA P.M.C.",
+        "research_area": "Multi-Modal Learning\\- Vision-Language",
+        "email": "chethmi.21@cse.mrt.ac.lk",
+        "github_username": "Nayanatharapmc",
+        "research_area_clean": "multi-modal-learning\\-vision-language"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210419F",
+        "name": "NELUHENA M.C.",
+        "research_area": "Small LLMs - Domain-Specific",
+        "email": "malindun.21@cse.mrt.ac.lk",
+        "github_username": "cneluhena",
+        "research_area_clean": "small-llms-domain-specific"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210434V",
+        "name": "NIROSHAN G.",
+        "research_area": "Time Series Classification",
+        "email": "ganeshan.21@cse.mrt.ac.lk",
+        "github_username": "Niroshan2001",
+        "research_area_clean": "time-series-classification"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210450P",
+        "name": "PATHIRANA L.P.T.R.",
+        "research_area": "Edge AI - Model Compression",
+        "email": "thiwanka.21@cse.mrt.ac.lk",
+        "github_username": "ThiwankaRoshen",
+        "research_area_clean": "edge-ai-model-compression"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210460V",
+        "name": "PERERA ITM",
+        "research_area": "Space AI - Autonomous Spacecraft",
+        "email": "tithira.21@cse.mrt.ac.lk",
+        "github_username": "Tithira-Perera-210460V",
+        "research_area_clean": "space-ai-autonomous-spacecraft"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210465P",
+        "name": "PERERA M.D.B.",
+        "research_area": "3D Vision - Neural Radiance Fields",
+        "email": "dulina.21@cse.mrt.ac.lk",
+        "github_username": "https://gitlab.com/primafyr",
+        "research_area_clean": "3d-vision-neural-radiance-fields"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210471F",
+        "name": "PERERA S.A.I.M.",
+        "research_area": "Healthcare AI - Medical Imaging",
+        "email": "irash.21@cse.mrt.ac.lk",
+        "github_username": "Irash-Perera",
+        "research_area_clean": "healthcare-ai-medical-imaging"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210483T",
+        "name": "PRABASHWARA D.G.H.",
+        "research_area": "Biocomputing - DNA Computing",
+        "email": "hansana.21@cse.mrt.ac.lk",
+        "github_username": "HansanaPrabashwara-210483T",
+        "research_area_clean": "biocomputing-dna-computing"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210491P",
+        "name": "PRANAVAN S.",
+        "research_area": "Climate AI - Climate Modeling",
+        "email": "subendiran.21@cse.mrt.ac.lk",
+        "github_username": "Pranavan-S",
+        "research_area_clean": "climate-ai-climate-modeling"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210515V",
+        "name": "RANASINGHE A.A.D.H.",
+        "research_area": "Time Series - Univariate Forecasting",
+        "email": "dinith.21@cse.mrt.ac.lk",
+        "github_username": "hasanga1",
+        "research_area_clean": "time-series-univariate-forecasting"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210518H",
+        "name": "RANASINGHE K.S.",
+        "research_area": "Climate AI - Remote Sensing",
+        "email": "kumudh.21@cse.mrt.ac.lk",
+        "github_username": "k-ranasinghe",
+        "research_area_clean": "climate-ai-remote-sensing"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210520G",
+        "name": "RANASINGHE R.P.C.G.J.",
+        "research_area": "CV - Semantic Segmentation",
+        "email": "chamathranasinghe.21@cse.mrt.ac.lk",
+        "github_username": "chamath-ranasinghe",
+        "research_area_clean": "cv-semantic-segmentation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210523T",
+        "name": "RANAWEERA H.K.",
+        "research_area": "Multimodal AI - Audio-Visual-Text",
+        "email": "hashini.21@cse.mrt.ac.lk",
+        "github_username": "RanaweeraHK",
+        "research_area_clean": "multimodal-ai-audio-visual-text"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210536K",
+        "name": "RATHNAYAKA W.T.",
+        "research_area": "Multi-Modal Learning - Video Understanding",
+        "email": "thisara.21@cse.mrt.ac.lk",
+        "github_username": "ThisaraWeerakoon",
+        "research_area_clean": "multi-modal-learning-video-understanding"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210553J",
+        "name": "SAJEENTHIRAN P.",
+        "research_area": "GNN - Knowledge Graphs",
+        "email": "sajeenthiranp.21@cse.mrt.ac.lk",
+        "github_username": "ParameswaranSajeenthiran",
+        "research_area_clean": "gnn-knowledge-graphs"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210554M",
+        "name": "SAJEEV K.",
+        "research_area": "Small LLMs - Edge Computing",
+        "email": "kugarajah.21@cse.mrt.ac.lk",
+        "github_username": "veejask-41",
+        "research_area_clean": "small-llms-edge-computing"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210567F",
+        "name": "SANDARUWAN W.G.M.A.",
+        "research_area": "AI SafetyAI -  Governance",
+        "email": "molindu.21@cse.mrt.ac.lk",
+        "github_username": "sandaruwanWGMA",
+        "research_area_clean": "ai-safetyai-governance"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210572P",
+        "name": "SANJANA K.Y.C.",
+        "research_area": "CV - Super Resolution",
+        "email": "yoshan.21@cse.mrt.ac.lk",
+        "github_username": "SanjanaChamindu",
+        "research_area_clean": "cv-super-resolution"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210574A",
+        "name": "SANKALPA L.M.P.",
+        "research_area": "AI Evaluation - Reasoning Evaluation",
+        "email": "pasindus.21@cse.mrt.ac.lk",
+        "github_username": "Pasindu599",
+        "research_area_clean": "ai-evaluation-reasoning-evaluation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210581R",
+        "name": "SAYANGKONDAN S.",
+        "research_area": "AI Efficiency - Power Optimization",
+        "email": "Sabalingam.21@cse.mrt.ac.lk",
+        "github_username": "Sayan-Saba",
+        "research_area_clean": "ai-efficiency-power-optimization"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210588U",
+        "name": "SENARATHNA L.P.S.U.K.",
+        "research_area": "Reasoning AI - Mathematical Reasoning",
+        "email": "udantha.21@cse.mrt.ac.lk",
+        "github_username": "senaMora",
+        "research_area_clean": "reasoning-ai-mathematical-reasoning"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210613U",
+        "name": "SIRIWARDHANA S.M.C.R.",
+        "research_area": "Federated Learning - Horizontal FL",
+        "email": "chirantha.21@cse.mrt.ac.lk",
+        "github_username": "Chirantha01",
+        "research_area_clean": "federated-learning-horizontal-fl"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210614A",
+        "name": "SIYAMBALAPITIYA S.A.T.",
+        "research_area": "Multi-Modal Learning - Video Understanding",
+        "email": "anjitha.21@cse.mrt.ac.lk",
+        "github_username": "Chirantha01",
+        "research_area_clean": "multi-modal-learning-video-understanding"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210620M",
+        "name": "SUBASINGHE S.M.K.G.L.S.",
+        "research_area": "Financial AI - Algorithmic Trading",
+        "email": "lasana.21@cse.mrt.ac.lk",
+        "github_username": "Lason360",
+        "research_area_clean": "financial-ai-algorithmic-trading"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210621R",
+        "name": "SUBAVARSHANA A.",
+        "research_area": "NLP - Question Answering",
+        "email": "subavarshanaa.21@cse.mrt.ac.lk",
+        "github_username": "subu0106",
+        "research_area_clean": "nlp-question-answering"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210639E",
+        "name": "THEESAN L.M.",
+        "research_area": "CV - Image Classification",
+        "email": "theesan.21@cse.mrt.ac.lk",
+        "github_username": "mohamedTheesan21",
+        "research_area_clean": "cv-image-classification"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210647C",
+        "name": "THEVINKA M.A.D.",
+        "research_area": "AI Safety - Interpretability",
+        "email": "disini.21@cse.mrt.ac.lk",
+        "github_username": "disini-thev",
+        "research_area_clean": "ai-safety-interpretability"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210665E",
+        "name": "VAHESHAN E.",
+        "research_area": "GNN - Molecular Property",
+        "email": "eswararajah.21@cse.mrt.ac.lk",
+        "github_username": "Vaheshan",
+        "research_area_clean": "gnn-molecular-property"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210670N",
+        "name": "VIDUSHINI A.O.",
+        "research_area": "Climate AI - Weather Forecasting",
+        "email": "omalya.21@cse.mrt.ac.lk",
+        "github_username": "OmalyaV",
+        "research_area_clean": "climate-ai-weather-forecasting"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210685N",
+        "name": "WEERAKOON W.M.R.H.U.B.",
+        "research_area": "CV - Semantic Segmentation",
+        "email": "ravindu.21@cse.mrt.ac.lk",
+        "github_username": "RavinduWeerakoon",
+        "research_area_clean": "cv-semantic-segmentation"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210706H",
+        "name": "WICKRAMASINGHE J.J.",
+        "research_area": "AI Evaluation - Task Completion",
+        "email": "janeesha.21@cse.mrt.ac.lk",
+        "github_username": "JaneeshaJ2001",
+        "research_area_clean": "ai-evaluation-task-completion"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210708P",
+        "name": "WICKRAMASINGHE M.S.V.",
+        "research_area": "Human-AI Collab - AI Assistants",
+        "email": "sahanwickramasinghe.21@cse.mrt.ac.lk",
+        "github_username": "sahan-vishwajith",
+        "research_area_clean": "human-ai-collab-ai-assistants"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210711T",
+        "name": "WICKRAMASINGHE W.L.K.D.D.A.",
+        "research_area": "GNN - Molecular Property",
+        "email": "kithuni.21@cse.mrt.ac.lk",
+        "github_username": "KituniDevma",
+        "research_area_clean": "gnn-molecular-property"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210714F",
+        "name": "WIJEKOON W.M.T.N.",
+        "research_area": "3D Vision - 3D Scene Understanding",
+        "email": "tharinduw.21@cse.mrt.ac.lk",
+        "github_username": "tharindu-wijekoon",
+        "research_area_clean": "3d-vision-3d-scene-understanding"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    },
+    {
+      "status": "error",
+      "student": {
+        "index_number": "210735U",
+        "name": "YAPA Y.M.D.P.",
+        "research_area": "Human-AI Collab - Interactive Problem Solving",
+        "email": "dulmi.21@cse.mrt.ac.lk",
+        "github_username": "Dulmi21",
+        "research_area_clean": "human-ai-collab-interactive-problem-solving"
+      },
+      "error": "'RepositoryManager' object has no attribute 'create_student_repository'"
+    }
+  ],
+  "summary": {
+    "total_processed": 85,
+    "successful_count": 0,
+    "failed_count": 85,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_create_repositories",
+    "timestamp": "2025-08-28T15:37:13.014536"
+  },
+  "operation": "bulk_create_repositories",
+  "timestamp": "2025-08-28T15:37:13.014536"
+}

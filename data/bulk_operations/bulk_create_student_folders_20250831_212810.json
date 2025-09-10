@@ -1,0 +1,43 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200472B",
+        "student_name": "PRABASHWARA M.A.R",
+        "name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "folder_name": "200472B-CV:Super-Resolution",
+      "created_files": [
+        "projects/200472B-CV:Super-Resolution/README.md",
+        "projects/200472B-CV:Super-Resolution/docs/research_proposal.md",
+        "projects/200472B-CV:Super-Resolution/docs/literature_review.md",
+        "projects/200472B-CV:Super-Resolution/docs/methodology.md",
+        "projects/200472B-CV:Super-Resolution/docs/progress_reports/.gitkeep",
+        "projects/200472B-CV:Super-Resolution/src/.gitkeep",
+        "projects/200472B-CV:Super-Resolution/data/.gitkeep",
+        "projects/200472B-CV:Super-Resolution/experiments/.gitkeep",
+        "projects/200472B-CV:Super-Resolution/results/.gitkeep",
+        "projects/200472B-CV:Super-Resolution/requirements.txt"
+      ],
+      "errors": []
+    }
+  ],
+  "failed": [],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 1,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_create_student_folders",
+    "timestamp": "2025-08-31T21:27:59.324191"
+  },
+  "operation": "bulk_create_student_folders",
+  "timestamp": "2025-08-31T21:27:59.324191"
+}

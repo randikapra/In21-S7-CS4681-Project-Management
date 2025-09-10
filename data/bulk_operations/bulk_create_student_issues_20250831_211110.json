@@ -1,0 +1,30 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "error",
+      "error": "'list' object has no attribute 'get'",
+      "student": {
+        "index_number": "200472B",
+        "student_name": "PRABASHWARA M.A.R",
+        "name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "research_area_clean": "cv:super-resolution"
+      }
+    }
+  ],
+  "total_processed": 1,
+  "summary": {
+    "total_processed": 1,
+    "successful_count": 0,
+    "failed_count": 1,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_create_student_issues",
+    "timestamp": "2025-08-31T21:11:10.833032"
+  },
+  "operation": "bulk_create_student_issues",
+  "timestamp": "2025-08-31T21:11:10.833032"
+}

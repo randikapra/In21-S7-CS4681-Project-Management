@@ -1,0 +1,99 @@
+{
+  "successful": [
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200001B",
+        "Student_ID": "200001B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikaprabashwara0.20@cse.mrt.ac.lk",
+        "github_username": "randika-CJ",
+        "GitHub_User_Name": "https://github.com/randika-CJ",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "randika-CJ",
+          "success": true,
+          "permission": "push",
+          "student_id": "200001B",
+          "student_name": "PRABASHWARA M.A.R"
+        }
+      ],
+      "error": null
+    },
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200710F",
+        "Student_ID": "200710F",
+        "student_name": "WICKRAMARATHNA G.V",
+        "Student_Name": "WICKRAMARATHNA G.V",
+        "research_area": "NLP:Reasoning",
+        "email": "gayani.20@cse.mrt.ac.lk",
+        "github_username": "Gayani2001",
+        "GitHub_User_Name": "https://github.com/Gayani2001",
+        "research_area_clean": "nlp:reasoning"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "Gayani2001",
+          "success": true,
+          "permission": "push",
+          "student_id": "200710F",
+          "student_name": "WICKRAMARATHNA G.V"
+        }
+      ],
+      "error": null
+    },
+    {
+      "status": "success",
+      "student": {
+        "index_number": "200002B",
+        "Student_ID": "200002B",
+        "student_name": "PRABASHWARA M.A.R",
+        "Student_Name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution Video",
+        "email": "randikaprabashwara0.20@cse.mrt.ac.lk",
+        "github_username": "randika-CJ",
+        "GitHub_User_Name": "https://github.com/randika-CJ",
+        "research_area_clean": "cv:super-resolution-video"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation sent successfully",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "randika-CJ",
+          "success": true,
+          "permission": "push",
+          "student_id": "200002B",
+          "student_name": "PRABASHWARA M.A.R"
+        }
+      ],
+      "error": null
+    }
+  ],
+  "failed": [],
+  "partial_success": [],
+  "total_processed": 3,
+  "summary": {
+    "total_processed": 3,
+    "successful_count": 3,
+    "failed_count": 0,
+    "partial_success_count": 0,
+    "success_rate": 100.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-09-01T08:50:35.713619"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-09-01T08:50:35.713619"
+}

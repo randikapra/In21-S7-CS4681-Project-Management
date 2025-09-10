@@ -1,0 +1,62 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "200472B",
+        "student_name": "PRABASHWARA M.A.R",
+        "name": "PRABASHWARA M.A.R",
+        "research_area": "CV:Super-Resolution",
+        "email": "randikap.20@cse.mrt.ac.lk",
+        "github_username": "randikapra",
+        "research_area_clean": "cv:super-resolution"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "randikapra",
+          "success": false,
+          "error": "Failed to add collaborator"
+        }
+      ]
+    },
+    {
+      "status": "failed",
+      "student": {
+        "index_number": "200086U",
+        "student_name": "CHANDRASENA W.G.M.D.",
+        "name": "CHANDRASENA W.G.M.D.",
+        "research_area": "Industry AI:Legal Tech",
+        "email": "maheshchandrasena.21@cse.mrt.ac.lk",
+        "github_username": "maheshdila",
+        "research_area_clean": "industry-ai:legal-tech"
+      },
+      "repo_name": "In21-S7-CS4681-AML-Research-Projects",
+      "message": "Student invitation failed",
+      "invitation_details": [
+        {
+          "type": "student",
+          "target": "maheshdila",
+          "success": false,
+          "error": "Failed to add collaborator"
+        }
+      ]
+    }
+  ],
+  "partial_success": [],
+  "total_processed": 2,
+  "summary": {
+    "total_processed": 2,
+    "successful_count": 0,
+    "failed_count": 2,
+    "partial_success_count": 0,
+    "success_rate": 0.0,
+    "operation": "bulk_send_invitations",
+    "timestamp": "2025-08-31T21:31:48.231905"
+  },
+  "operation": "bulk_send_invitations",
+  "timestamp": "2025-08-31T21:31:48.231905"
+}
