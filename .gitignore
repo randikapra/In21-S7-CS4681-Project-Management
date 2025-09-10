@@ -38,4 +38,14 @@ Thumbs.db
 # Project specific
 .env
 config/config.json
+config/settings.json
 *.log
+main_v1.py
+scripts/bulk_processor_old.py
+scripts/github_client_old.py
+scripts/progress_aggregator_old.py
+scripts/invitation_manager_old.py
+scripts/master_project_old.py
+scripts/repo_manager_old.py
+scripts/utils_old.py
+scripts/worker_old.py
